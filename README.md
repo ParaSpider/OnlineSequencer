@@ -59,10 +59,10 @@ http://onlinesequencer.net/36840 - Browser crashing / Lag.
 http://onlinesequencer.net/32112 - Offensive sequence.
 http://onlinesequencer.net/22592 - Offensive sequence.
 http://onlinesequencer.net/24150 - Offensive sequence.
-http://onlinesequencer.net/35460 - Browser crashing / Jumpscare.
-http://onlinesequencer.net/34308 - Browser crashing / Jumpscare.
-http://onlinesequencer.net/33524 - Browser crashing / Jumpscare.
-http://onlinesequencer.net/28757 - Browser crashing / Jumpscare.
+http://onlinesequencer.net/35460 - Browser crash / Jumpscare.
+http://onlinesequencer.net/34308 - Browser crash / Jumpscare.
+http://onlinesequencer.net/33524 - Browser crash / Jumpscare.
+http://onlinesequencer.net/28757 - Browser crash / Jumpscare.
 http://onlinesequencer.net/20072 - Offensive sequence.
 http://onlinesequencer.net/26710 - Offensive sequence.
 http://onlinesequencer.net/33217 - Offensive sequence.
