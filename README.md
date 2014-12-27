@@ -54,3 +54,5 @@ http://onlinesequencer.net/20077 - Offensive sequence.
 http://onlinesequencer.net/24883 - Offensive sequence.
 http://onlinesequencer.net/17467 - Offensive sequence.
 http://onlinesequencer.net/12757 - Offensive sequence.
+http://onlinesequencer.net/32113 - Offensive sequence.
+http://onlinesequencer.net/32112 - Offensive sequence.
