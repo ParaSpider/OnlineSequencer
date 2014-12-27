@@ -79,3 +79,4 @@ http://onlinesequencer.net/19235 - Offensive sequence.
 http://onlinesequencer.net/33792 - Browser crashing / Lag.
 http://onlinesequencer.net/32805 - Offensive sequence.
 http://onlinesequencer.net/39687 - Browser crashing.
+http://onlinesequencer.net/39679 - Browser crashing / Lag.
