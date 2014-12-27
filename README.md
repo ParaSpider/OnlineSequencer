@@ -66,3 +66,5 @@ http://onlinesequencer.net/28757 - Browser crashing / Jumpscare.
 http://onlinesequencer.net/20072 - Offensive sequence.
 http://onlinesequencer.net/26710 - Offensive sequence.
 http://onlinesequencer.net/33217 - Offensive sequence.
+http://onlinesequencer.net/33850 - Offensive sequence.
+http://onlinesequencer.net/16687 - Offensive sequence.
