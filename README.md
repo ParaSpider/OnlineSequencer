@@ -77,3 +77,4 @@ http://onlinesequencer.net/30599 - Jumpscare / Lag.
 http://onlinesequencer.net/41955 - Browser crashing / Lag.
 http://onlinesequencer.net/19235 - Offensive sequence.
 http://onlinesequencer.net/33792 - Browser crashing / Lag.
+http://onlinesequencer.net/32805 - Offensive sequence.
