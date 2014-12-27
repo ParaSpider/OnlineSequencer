@@ -98,5 +98,7 @@ http://onlinesequencer.net/46232 - Browser crashing / Lag.
 http://onlinesequencer.net/33509 - Offensive sequence.
 http://onlinesequencer.net/42981 - Browser crashing / Lag.
 http://onlinesequencer.net/33510 - Offensive sequence.
-http://onlinesequencer.net/47857 - Browser Crashing / Lag
-http://onlinesequencer.net/42048 - Browser Crashing / Lag
+http://onlinesequencer.net/47857 - Browser Crashing / Lag.
+http://onlinesequencer.net/42048 - Browser Crashing / Lag.
+http://onlinesequencer.net/46390 - Browser Crashing / Lag.
+http://onlinesequencer.net/42977 - Offensive sequence.
