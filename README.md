@@ -38,3 +38,4 @@ http://onlinesequencer.net/55750 - Browser crashing / Lag.
 http://onlinesequencer.net/56201 - Offensive sequence.
 http://onlinesequencer.net/56633 - Offensive sequence.
 http://onlinesequencer.net/56536 - Offensive sequence.
+http://onlinesequencer.net/16446 - Jumpscare / Lag.
