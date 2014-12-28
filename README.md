@@ -8,6 +8,7 @@ Moderation Logs
 http://onlinesequencer.net/52792 - Offensive sequence.
 http://onlinesequencer.net/1589 - Offensive sequence.
 http://onlinesequencer.net/33811 - Browser crashing / Lag.
+http://onlinesequencer.net/20595 - Browser crashing / Lag.
 
 **DECEMBER 27th, 2014**
 
