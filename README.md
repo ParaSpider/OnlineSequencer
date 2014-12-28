@@ -4,8 +4,9 @@ The moderation logs for onlinesequencer whenever I remove inappropriate sequence
 Moderation Logs
 ======
 **DECEMBER 28th, 2014**
-http://onlinesequencer.net/52792 - Offensive sequence.
 
+http://onlinesequencer.net/52792 - Offensive sequence.
+http://onlinesequencer.net/1589 - Offensive sequence.
 **DECEMBER 27th, 2014**
 
 http://onlinesequencer.net/30389 - Offensive sequence.
