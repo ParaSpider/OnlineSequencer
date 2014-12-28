@@ -16,7 +16,9 @@ http://onlinesequencer.net/51630 - Offensive sequence.
 http://onlinesequencer.net/28714 - Browser crashing / Lag.
 http://onlinesequencer.net/51204 - Offensive title.
 http://onlinesequencer.net/31222 - Offensive title.
-
+http://onlinesequencer.net/56989 - Browser crashing / Lag.
+http://onlinesequencer.net/36906 - Offensive sequence / Lag.
+http://onlinesequencer.net/53874 - Browser crashing / Lag.
 
 **DECEMBER 27th, 2014**
 
