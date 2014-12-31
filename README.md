@@ -7,6 +7,7 @@ Moderation Logs
 **DECEMBER 31st, 2014**
 
 http://onlinesequencer.net/42595 - Browser crashing / Lag.
+http://onlinesequencer.net/27112 - Browser crashing / Lag.
 
 **DECEMBER 30th, 2014**
 
