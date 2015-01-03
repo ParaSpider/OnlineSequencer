@@ -14,6 +14,7 @@ http://onlinesequencer.net/12558 - Offensive sequence.
 http://onlinesequencer.net/20588 - Offensive sequence.
 http://onlinesequencer.net/41217 - Browser crashing / Lag.
 http://onlinesequencer.net/29822 - Jumpscare.
+http://onlinesequencer.net/57988 - Offensive sequence.
 
 **JANUARY 1st, 2015**
 
