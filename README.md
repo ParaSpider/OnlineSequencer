@@ -11,6 +11,7 @@ http://onlinesequencer.net/19601 - Offensive sequence.
 http://onlinesequencer.net/4729 - Offensive sequence.
 http://onlinesequencer.net/25885 - Offensive sequence.
 http://onlinesequencer.net/12558 - Offensive sequence.
+http://onlinesequencer.net/20588 - Offensive sequence.
 
 **JANUARY 1st, 2015**
 
