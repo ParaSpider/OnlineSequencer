@@ -7,6 +7,7 @@ Moderation Logs
 **JANUARY 7th, 2015**
 
 http://onlinesequencer.net/25948 - Offensive sequence.
+http://onlinesequencer.net/53085 - Offensive sequence.
 
 **JANUARY 5th, 2015**
 
