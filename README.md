@@ -3,7 +3,9 @@ What's this?
 The moderation logs for onlinesequencer whenever I remove inappropriate sequences, ignore if you wish
 Moderation Logs
 ======
+**JANUARY 8th, 2015**
 
+http://onlinesequencer.net/59333 - Browser crashing / Lag.
 **JANUARY 7th, 2015**
 
 http://onlinesequencer.net/25948 - Offensive sequence.
