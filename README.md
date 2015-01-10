@@ -6,6 +6,7 @@ Moderation Logs
 **JANUARY 10th, 2015**
 
 http://onlinesequencer.net/3003 - Jumpscare.
+http://onlinesequencer.net/35756 - Offensive sequence.
 
 **JANUARY 9th, 2015**
 
