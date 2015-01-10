@@ -10,6 +10,7 @@ http://onlinesequencer.net/3003 - Jumpscare.
 **JANUARY 9th, 2015**
 
 http://onlinesequencer.net/59572 - Offensive sequence.
+
 **JANUARY 8th, 2015**
 
 http://onlinesequencer.net/59333 - Browser crashing / Lag.
