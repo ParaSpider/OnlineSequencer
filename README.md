@@ -11,6 +11,7 @@ http://onlinesequencer.net/60106 - Offensive sequence.
 http://onlinesequencer.net/26656 - Offensive sequence.
 http://onlinesequencer.net/60172 - Offensive sequence.
 http://onlinesequencer.net/60173 - Offensive sequence.
+http://onlinesequencer.net/30527 - Browser crashing / Lag.
 
 **JANUARY 10th, 2015**
 
