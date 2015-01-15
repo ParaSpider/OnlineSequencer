@@ -7,6 +7,7 @@ Moderation Logs
 **JANUARY 14th, 2015**
 
 http://onlinesequencer.net/48275 - Browser crashing.
+http://onlinesequencer.net/60854 - Offensive sequence.
 
 **JANUARY 13th, 2015**
 
