@@ -4,6 +4,10 @@ The moderation logs for onlinesequencer whenever I remove inappropriate sequence
 Moderation Logs
 ======
 
+**JANUARY 14th, 2015**
+
+http://onlinesequencer.net/48275 - Browser crashing.
+
 **JANUARY 13th, 2015**
 
 http://onlinesequencer.net/60673 - Offensive sequence.
