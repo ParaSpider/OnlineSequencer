@@ -4,6 +4,18 @@ The moderation logs for onlinesequencer whenever I remove inappropriate sequence
 Moderation Logs
 ======
 
+**JANUARY 16th, 2015**
+
+http://onlinesequencer.net/61564 - Lag / Jumpscare.
+http://onlinesequencer.net/61561 - Lag / Jumpscare.
+http://onlinesequencer.net/61565 - Lag / Browser crashing.
+http://onlinesequencer.net/61568 - Lag / Browser crashing.
+http://onlinesequencer.net/61569 - Lag / Browser crashing.
+http://onlinesequencer.net/61577 - Lag.
+http://onlinesequencer.net/61579 - Lag.
+http://onlinesequencer.net/53424 - Jumpscare / Lag.
+
+
 **JANUARY 14th, 2015**
 
 http://onlinesequencer.net/48275 - Browser crashing.
